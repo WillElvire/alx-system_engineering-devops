@@ -1,2 +1,2 @@
 #!/bin/bash  
-echo pwd
+echo  cd /0x00-shell_basics pwd 
