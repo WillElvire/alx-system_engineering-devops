@@ -1,0 +1,5 @@
+#!/bin/bash
+cp -rpu *.html -t ..
+ to file
+
+
