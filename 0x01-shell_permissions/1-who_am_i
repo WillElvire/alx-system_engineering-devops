@@ -1,2 +1,2 @@
-1-who_am_i
-Go to file
+#!/bin/bash
+whoami
